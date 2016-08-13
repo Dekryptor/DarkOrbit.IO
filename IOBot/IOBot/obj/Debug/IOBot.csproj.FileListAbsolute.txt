@@ -1,0 +1,17 @@
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\IOBot.exe.config
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\IOBot.exe
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\IOBot.pdb
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\obj\Debug\IOBot.csprojResolveAssemblyReference.cache
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\obj\Debug\IOBot.Properties.Resources.resources
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\obj\Debug\IOBot.csproj.GenerateResource.Cache
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\obj\Debug\IOBot.exe
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\obj\Debug\IOBot.pdb
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\obj\Debug\IOBot.Visual.resources
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\PInvoke.User32.dll
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\PInvoke.User32.xml
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\PInvoke.Shell32.dll
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\etudiant\Desktop\DarkOrbit.IO\IOBot\IOBot\bin\Debug\PInvoke.Shell32.xml
